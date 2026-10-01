@@ -15,7 +15,6 @@ por fora, por isso curto fullstack e IHC.
 
 - 🎓 Cursando Engenharia de Software na UEM
 - 💼 Estagiário de TI na Justiça Federal em Service Desk, Maringá
-- 🎯 Em busca de estágio em desenvolvimento
 
 ## Tecnologias
 
